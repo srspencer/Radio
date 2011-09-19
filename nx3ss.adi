@@ -3,7 +3,7 @@
 #   HRD Logbook version 5.0 build 2893, Copyright (C) 2009-2010 by Simon Brown, HB9DRV
 #   http://logbook.ham-radio-deluxe.com
 #
-#   Created:  06-Sep-2011 22:32:38
+#   Created:  18-Sep-2011 21:29:07
 #
 #--
 
@@ -12,13 +12,452 @@
 <PROGRAMVERSION:22>Version 5.0 build 2893
 <EOH>
 
+<address:73>Kanji "Kan" Morita
+644-27,Hiyono
+Ohmi-Hachiman city, Shiga 523-0033
+Japan <a_index:3>0.0 
+<ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>JI3CJP <cont:2>AS <country:5>Japan <cqz:2>25 <distance:9>11161.313 
+<dxcc:3>339 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:6>PM85bc 
+<ituz:2>45 <k_index:3>0.0 <lat:11>N035 06.250 <lon:11>E136 07.500 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 
+<my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:18>Kanji "Kan" Morita <pfx:3>JI3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:18>BURO AND LOTW 100% <qso_complete:1>Y <qso_random:1>0 <qth:18>Ohmi-Hachiman city 
+<rst_rcvd:3>-14 <rst_sent:3>-17 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>003700 
+<time_on:6>003400 <qso_date:8>20110919 <tx_pwr:6>15.000 <web:31>http://blog.livedoor.jp/ji3cjp/ <EOR>
+
+<address:79>Koji Shimizu
+2-22-1-1208 Kaminakano Kita-Ku
+Okayama-City OKAYAMA 700-0972
+Japan <a_index:3>0.0 
+<ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>JO4CTB <cont:2>AS <country:5>Japan <cqz:2>25 <distance:9>11294.324 
+<dxcc:3>339 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:6>PM64wp 
+<ituz:2>45 <k_index:3>0.0 <lat:11>N034 38.750 <lon:11>E133 52.500 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 
+<my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:12>Koji Shimizu <pfx:3>JO4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:32>VIA BUREAU,DIRECT, LOTW AND EQSL <qso_complete:1>Y <qso_random:1>0 
+<qth:29>Okayama-City OKAYAMA 700-0972 <rst_rcvd:3>-19 <rst_sent:3>-17 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>002400 <time_on:6>002200 <qso_date:8>20110919 <tx_pwr:6>30.000 <web:28>http://ameblo.jp/kan2220001/ <EOR>
+
+<address:74>okiharu Isoi
+27-1,kamifujishige
+Uesugi-cho,ayabe city,kyoto 623-0102
+Japan <a_index:3>0.0 
+<ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>JA3BJZ <cont:2>AS <country:5>Japan <cqz:2>25 <distance:9>11168.754 
+<dxcc:3>339 <eqsl_qslsdate:8>20110918 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: nx3ss To: JA3BJZ Date: 20110919 Time: 0014 Band: 15M Mode: JT65 RST: -12 SatMode: PropMode: 
+<force_init:1>0 <freq:9>21.076000 <gridsquare:6>PM75pi <ituz:2>45 <k_index:3>0.0 <lat:11>N035 21.250 
+<lon:11>E135 17.500 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:12>okiharu Isoi <pfx:3>JA3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:27>VIA BUREAU, E-QSL OR DIRECT 
+<qso_complete:1>Y <qso_random:1>0 <qth:10>Uesugi-cho <rst_rcvd:3>-20 <rst_sent:3>-12 <rx_pwr:3>0.0 <sfi:3>0.0 
+<station_callsign:5>NX3SS <swl:1>0 <time_off:6>001800 <time_on:6>001400 <qso_date:8>20110919 <tx_pwr:6>30.000 
+<web:34>http://www.eonet.ne.jp/~661270isoi <EOR>
+
+<address:55>ROBERT G DE HART
+9051 michigan rd
+SEBRING, FL 33870
+USA <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>40m <call:5>W5RDH <cnty:9>Highlands <cont:2>NA <country:13>United States <cqz:1>5 
+<distance:8>1347.315 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:8>7.184960 
+<gridsquare:6>EL97gl <ituz:1>6 <k_index:3>0.0 <lat:11>N027 29.000 <lon:11>W081 25.184 <lotw_qslsdate:8>20110918 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
+<my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:16>ROBERT G DE HART 
+<pfx:2>W5 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:7>SEBRING <rst_rcvd:2>55 <rst_sent:2>57 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>FL <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>014517 <time_on:6>014517 <qso_date:8>20110918 <tx_pwr:3>0.0 <EOR>
+
+<address:54>James T Hadfield
+15 Peckham St
+Coldwater, MI 49036
+USA <a_index:4>21.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>40m <call:5>K7CHL <cnty:6>Branch <cont:2>NA <country:13>United States <cqz:1>5 
+<distance:7>762.796 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:8>7.184960 
+<gridsquare:6>EN71lw <ituz:1>6 <k_index:3>2.0 <lat:11>N041 56.235 <lon:11>W085 00.262 <lotw_qslsdate:8>20110918 
+<lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
+<my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:16>James T Hadfield 
+<pfx:2>K7 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:39>LOTW,EQSL & DIRECT OR NATA, OMISS BUROS 
+<qso_complete:1>Y <qso_random:1>0 <qth:9>Coldwater <rst_rcvd:2>55 <rst_sent:2>57 <rx_pwr:3>0.0 <sfi:5>145.0 
+<state:2>MI <station_callsign:5>NX3SS <swl:1>0 <time_off:6>012046 <time_on:6>012046 <qso_date:8>20110918 
+<tx_pwr:3>0.0 <web:25>http://www.techdoctor.org <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>7K3OWM <cont:2>AS <country:5>Japan <distance:9>10918.086 
+<dxcc:3>339 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.075500 <gridsquare:4>QM05 
+<k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
+<mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:2>7K <qsl_rcvd:1>N 
+<qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-11 <rst_sent:3>-11 <rx_pwr:3>0.0 <sfi:3>0.0 
+<station_callsign:5>NX3SS <swl:1>0 <time_off:6>015200 <time_on:6>014700 <qso_date:8>20110917 <tx_pwr:6>30.000 <EOR>
+
+<a_index:3>3.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>20m <call:3>W6C <comment:4>Mike <cont:2>NA 
+<country:13>United States <cqz:1>5 <distance:8>1783.073 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N 
+<force_init:1>0 <freq:9>14.265960 <ituz:1>6 <k_index:3>1.0 <lat:11>N039 00.000 <lon:11>W097 31.668 <lotw_qslsdate:8>20110918 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
+<my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <pfx:2>W6 <qsl_rcvd:1>N 
+<qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 
+<rx_pwr:3>0.0 <sfi:5>143.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>011612 <time_on:6>011612 <qso_date:8>20110917 
+<tx_pwr:3>0.0 <EOR>
+
+<address:46>Janis Krevics
+P.O.Box 8
+Aluksne LV-4301
+Latvia <a_index:3>7.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>15m <call:6>YL2GUV <cont:2>EU <country:6>Latvia <cqz:2>15 <distance:8>7195.508 
+<dxcc:3>145 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.339960 <gridsquare:6>KO37ke 
+<ituz:2>29 <k_index:3>2.0 <lat:11>N057 11.580 <lon:11>E026 54.912 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>V 
+<lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 
+<my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:13>Janis Krevics <pfx:3>YL2 <qsl_rcvd:1>N 
+<qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:24>VIA BUREAU, DIRECT, LOTW <qso_complete:1>Y 
+<qso_random:1>0 <qth:15>Aluksne LV-4301 <rst_rcvd:2>57 <rst_sent:2>57 <rx_pwr:3>0.0 <sfi:5>141.0 <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>160130 <time_on:6>160130 <qso_date:8>20110916 <tx_pwr:3>0.0 <web:23>http://yl2guv.narod.ru/ <EOR>
+
+<address:58>Alexey N. Kravtsov
+Nova Kakhovka, 74900
+P.O.BOX 84
+Ukraine <a_index:3>7.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>15m <call:6>UR5GDX <cont:2>EU <country:7>Ukraine <cqz:2>16 <distance:8>8248.001 
+<dxcc:3>288 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.264750 <gridsquare:6>KN66qs 
+<ituz:2>29 <k_index:3>2.0 <lat:11>N046 46.200 <lon:11>E033 22.400 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 
+<my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:18>Alexey N. Kravtsov <pfx:3>UR5 
+<qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:39>BUREAU OR DIRECT, NO - LOTW, NO - EQSL. 
+<qso_complete:1>Y <qso_random:1>0 <qth:10>P.O.BOX 84 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>141.0 
+<station_callsign:5>NX3SS <swl:1>0 <time_off:6>155837 <time_on:6>155837 <qso_date:8>20110916 <tx_pwr:3>0.0 
+<web:23>http://www.ur5gdx.at.ua <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:5>EI1DG <cont:2>EU <country:7>Ireland <distance:8>5424.318 
+<dxcc:3>245 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:4>IO63 
+<k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
+<mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>EI1 <qsl_rcvd:1>N 
+<qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-06 <rst_sent:3>-07 <rx_pwr:3>0.0 <sfi:3>0.0 
+<station_callsign:5>NX3SS <swl:1>0 <time_off:6>181000 <time_on:6>180400 <qso_date:8>20110915 <tx_pwr:6>30.000 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>GM4UYE <cont:2>EU <country:8>Scotland 
+<distance:8>5604.222 <dxcc:3>279 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 
+<gridsquare:4>IO86 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>Y <mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>GM4 
+<qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-24 <rst_sent:3>-11 <rx_pwr:3>0.0 
+<sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>174700 <time_on:6>174600 <qso_date:8>20110915 
+<tx_pwr:6>30.000 <EOR>
+
+<address:41>ASHLEY WING
+278 Main St
+Jay, ME 04239
+USA <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S 
+<band:3>40m <call:5>N1PDP <cnty:8>Franklin <cont:2>NA <country:13>United States <cqz:1>5 <distance:7>828.323 
+<dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: N1PDP Date: 20110915 Time: 0239 Band: 40M Mode: SSB RST: 58 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>FN44vm <ituz:1>6 <k_index:3>2.0 <lat:11>N044 31.250 <lon:11>W070 12.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:11>ASHLEY WING <pfx:2>N1 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y <qso_random:1>0 <qth:3>Jay <rst_rcvd:2>59 <rst_sent:2>58 
+<rx_pwr:3>0.0 <sfi:5>143.0 <state:2>ME <station_callsign:5>NX3SS <swl:1>0 <time_off:6>023919 <time_on:6>023919 
+<qso_date:8>20110915 <tx_pwr:3>0.0 <EOR>
+
+<address:61>Wayne B Rumley, II
+12315 E 61st St
+Broken Arrow, OK 74012
+USA <a_index:3>6.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <ant_path:1>S <band:3>40m <call:6>WA5YNE <cnty:5>Tulsa <cont:2>NA <country:13>United States 
+<cqz:1>5 <distance:8>1698.131 <dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:142>Result: 1 out of 1 records added, Information: From: nx3ss To: WA5YNE Date: 20110915 Time: 0236 Band: 40M Mode: SSB RST: 57 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>EM26cb <ituz:1>6 <k_index:3>2.0 <lat:11>N036 03.750 <lon:11>W095 47.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:18>Wayne B Rumley, II <pfx:3>WA5 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>D <qsl_via:19>DIRECT OR BURO ONLY <qso_complete:1>Y <qso_random:1>0 <qth:12>Broken Arrow 
+<rst_rcvd:2>55 <rst_sent:2>57 <rx_pwr:3>0.0 <sfi:5>143.0 <state:2>OK <station_callsign:5>NX3SS <swl:1>0 
+<time_off:6>023625 <time_on:6>023625 <qso_date:8>20110915 <tx_pwr:3>0.0 <EOR>
+
+<address:56>Thomas M Oliver
+2631 Barkwood Ln
+Kalamazoo, MI 49004
+USA <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>40m <call:6>KC8QFF <cnty:9>Kalamazoo <cont:2>NA <country:13>United States <cqz:1>5 
+<distance:7>826.390 <dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:142>Result: 1 out of 1 records added, Information: From: nx3ss To: KC8QFF Date: 20110915 Time: 0230 Band: 40M Mode: SSB RST: 58 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>EN72eh <ituz:1>6 <k_index:3>2.0 <lat:11>N042 18.750 <lon:11>W085 37.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:15>Thomas M Oliver <pfx:3>KC8 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y <qso_random:1>0 <qth:9>Kalamazoo <rst_rcvd:2>55 <rst_sent:2>58 
+<rx_pwr:3>0.0 <sfi:5>143.0 <state:2>MI <station_callsign:5>NX3SS <swl:1>0 <time_off:6>023024 <time_on:6>023024 
+<qso_date:8>20110915 <tx_pwr:3>0.0 <EOR>
+
+<address:70>AUGUST MUCHITSCH
+47 Montgomery Street, PO BOX 487
+TIVOLI, NY 12583
+USA <a_index:3>6.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <ant_path:1>S <band:3>40m <call:4>KD2N <cnty:8>Dutchess <cont:2>NA <country:13>United States 
+<cqz:1>5 <distance:7>426.842 <dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:140>Result: 1 out of 1 records added, Information: From: nx3ss To: KD2N Date: 20110915 Time: 0209 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>FN32bb <ituz:1>6 <k_index:3>2.0 <lat:11>N042 03.750 <lon:11>W073 52.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:16>AUGUST MUCHITSCH <pfx:3>KD2 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y <qso_random:1>0 <qth:6>TIVOLI <rst_rcvd:2>59 <rst_sent:2>59 
+<rx_pwr:3>0.0 <sfi:5>143.0 <state:2>NY <station_callsign:5>NX3SS <swl:1>0 <time_off:6>020955 <time_on:6>020955 
+<qso_date:8>20110915 <tx_pwr:3>0.0 <EOR>
+
+<address:84>DONALD B STAPELFELD, SR
+2040 Lime Kiln Rd., PO BOX 215
+North Haverhill, NH 03774
+USA <a_index:3>6.0 
+<ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>40m <call:4>KZ1Q <cnty:7>Grafton <cont:2>NA <country:13>United States 
+<cqz:1>5 <distance:7>698.358 <dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:140>Result: 1 out of 1 records added, Information: From: nx3ss To: KZ1Q Date: 20110915 Time: 0203 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>FN44ab <ituz:1>6 <k_index:3>2.0 <lat:11>N044 03.750 <lon:11>W071 57.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:23>DONALD B STAPELFELD, SR <pfx:3>KZ1 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y <qso_random:1>0 <qth:15>North Haverhill <rst_rcvd:2>59 
+<rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>143.0 <state:2>NH <station_callsign:5>NX3SS <swl:1>0 <time_off:6>020350 
+<time_on:6>020350 <qso_date:8>20110915 <tx_pwr:3>0.0 <EOR>
+
+<address:66>JEFFREY L SMITH
+12330 E HWY 11, PO BOX 177
+Como, TX 75431-0177
+USA <a_index:3>0.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <ant_path:1>S <band:3>40m <call:5>N5TMC <cnty:7>Hopkins <comment:11>put omiss # <cont:2>NA 
+<country:13>United States <cqz:1>5 <distance:8>1796.019 <dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N 
+<eqsl_qsl_sent:1>Y <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: N5TMC Date: 20110915 Time: 0201 Band: 40M Mode: SSB RST: 44 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>EM23ga <ituz:1>6 <k_index:3>0.0 <lat:11>N033 01.250 <lon:11>W095 27.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:15>JEFFREY L SMITH <pfx:2>N5 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>D <qsl_via:5>N5TMC <qso_complete:1>Y <qso_random:1>0 <qth:4>Como <rst_rcvd:2>22 
+<rst_sent:2>44 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>020109 <time_on:6>020109 
+<qso_date:8>20110915 <tx_pwr:3>0.0 <web:24>http://www.qsl.net/n5tmc <EOR>
+
+<address:49>FRED MADDOX
+332 N SHAWNEE CT
+NOWATA, OK 74048
+USA <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>40m <call:4>NX5L <cnty:6>Nowata <cont:2>NA <country:13>United States <cqz:1>5 <distance:8>1665.028 
+<dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:140>Result: 1 out of 1 records added, Information: From: nx3ss To: NX5L Date: 20110915 Time: 0200 Band: 40M Mode: SSB RST: 58 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>EM26eq <ituz:1>6 <k_index:3>2.0 <lat:11>N036 41.250 <lon:11>W095 37.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:11>FRED MADDOX <pfx:3>NX5 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 <qth:6>NOWATA <rst_rcvd:2>57 <rst_sent:2>58 
+<rx_pwr:3>0.0 <sfi:5>143.0 <state:2>OK <station_callsign:5>NX3SS <swl:1>0 <time_off:6>020044 <time_on:6>020044 
+<qso_date:8>20110915 <tx_pwr:3>0.0 <EOR>
+
+<address:67>David W Westphalen
+107 Shallow Creek Lane
+Cherryville, NC 28021
+USA <a_index:3>6.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <ant_path:1>S <band:3>40m <call:6>KJ4ENS <cnty:9>Cleveland <cont:2>NA <country:13>United States 
+<cqz:1>5 <distance:7>572.669 <dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:142>Result: 1 out of 1 records added, Information: From: nx3ss To: KJ4ENS Date: 20110915 Time: 0134 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>EM95gi <ituz:1>6 <k_index:3>2.0 <lat:11>N035 21.250 <lon:11>W081 27.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:18>David W Westphalen <pfx:3>KJ4 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>B <qsl_via:22>DIRECT, LOTW, AND EQSL <qso_complete:1>Y <qso_random:1>0 
+<qth:11>Cherryville <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>143.0 <state:2>NC <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>013424 <time_on:6>013424 <qso_date:8>20110915 <tx_pwr:3>0.0 <web:25>http://www.kj4ens.2ya.com <EOR>
+
+<address:57>LARRY D BRYAN
+5150 HUMMINGBIRD Street
+ELIDA, OH 45807
+USA <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>40m <call:5>W8LIG <cnty:5>Allen <cont:2>NA <country:13>United States <cqz:1>5 <distance:7>657.223 
+<dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: W8LIG Date: 20110915 Time: 0210 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>EN70vs <ituz:1>6 <k_index:3>2.0 <lat:11>N040 46.250 <lon:11>W084 12.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:13>LARRY D BRYAN <pfx:2>W8 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>B <qsl_via:41>EQSL.CC - LOTW - DIRECT NON SASE REQUIRED <qso_complete:1>Y 
+<qso_random:1>0 <qth:5>ELIDA <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>143.0 <state:2>OH <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>013038 <time_on:6>013038 <qso_date:8>20110915 <tx_pwr:3>0.0 <web:35>http://www.eqsl.cc/Member.cfm?W8LIG <EOR>
+
+<address:64>GRAHAM D BARSTOW, SR
+77 SLEEPY FOREST DR
+LEICESTER, NC 28748
+USA <a_index:3>6.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <ant_path:1>S <band:3>40m <call:4>NU4U <cnty:8>Buncombe <cont:2>NA <country:13>United States 
+<cqz:1>5 <distance:7>635.702 <dxcc:3>291 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:140>Result: 1 out of 1 records added, Information: From: nx3ss To: NU4U Date: 20110915 Time: 0127 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.185000 <gridsquare:6>EM85pp <ituz:1>6 <k_index:3>2.0 <lat:11>N035 38.750 <lon:11>W082 42.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:20>GRAHAM D BARSTOW, SR <pfx:3>NU4 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y <qso_random:1>0 <qth:9>LEICESTER <rst_rcvd:2>59 <rst_sent:2>59 
+<rx_pwr:3>0.0 <sfi:5>143.0 <state:2>NC <station_callsign:5>NX3SS <swl:1>0 <time_off:6>012731 <time_on:6>012731 
+<qso_date:8>20110915 <tx_pwr:3>0.0 <EOR>
+
+<address:7>USA
+USA <a_index:4>15.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>15m <call:3>W6G 
+<comment:3>bob <cont:2>NA <country:13>United States <cqz:1>5 <distance:8>8888.828 <dxcc:3>291 <eqsl_qslsdate:8>20110914 
+<eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:139>Result: 1 out of 1 records added, Information: From: nx3ss To: W6G Date: 20110914 Time: 2028 Band: 15M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:9>21.365870 <gridsquare:6>JJ00aa <ituz:1>6 <k_index:3>2.0 <lat:11>N000 01.250 <lon:11>E000 02.500 
+<lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:3>USA <pfx:2>W6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
+<qso_complete:1>Y <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>129.0 <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>202839 <time_on:6>202839 <qso_date:8>20110914 <tx_pwr:3>0.0 <EOR>
+
+<address:55>Jonas Paskauskas
+P.O.BOX 71
+Siauliai LT-76001
+Lithuania <a_index:4>15.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>20m <call:6>LY37LY <cont:2>EU <country:9>Lithuania <cqz:2>15 <distance:8>7155.811 
+<dxcc:3>146 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:142>Result: 1 out of 1 records added, Information: From: nx3ss To: LY37LY Date: 20110914 Time: 2010 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.235400 <ituz:2>28 <k_index:3>2.0 <lat:11>N055 11.664 <lon:11>E023 51.000 <lotw_qslsdate:8>20110918 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
+<my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:16>Jonas Paskauskas 
+<pfx:4>LY37 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:4>LY5A <qso_complete:1>Y 
+<qso_random:1>0 <qth:17>Siauliai LT-76001 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>129.0 <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>201026 <time_on:6>201026 <qso_date:8>20110914 <tx_pwr:3>0.0 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>YO5OHY <cont:2>EU <country:7>Romania <distance:8>4293.314 
+<dxcc:3>275 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.076000 <k_index:3>0.0 <lat:11>N000 00.000 
+<lon:11>E000 00.000 <lotw_qslsdate:8>20110914 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_gridsquare:4>FM18 
+<my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>YO5 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:3>-14 <rst_sent:3>-09 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 
+<time_off:6>195400 <time_on:6>195000 <qso_date:8>20110914 <tx_pwr:6>30.000 <EOR>
+
+<address:62>SHALOM COHEN
+23, Menachem Begin St.
+Giv'at Shmuel 54421
+Israel <a_index:4>15.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <ant_path:1>S <band:3>15m <call:5>4X1UN <cont:2>AS <country:6>Israel <cqz:2>20 <distance:8>9464.590 
+<dxcc:3>336 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: 4X1UN Date: 20110914 Time: 1753 Band: 15M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:9>21.296960 <ituz:2>39 <k_index:3>2.0 <lat:11>N031 42.336 <lon:11>E034 45.666 <lotw_qslsdate:8>20110914 
+<lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
+<my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:12>SHALOM COHEN 
+<pfx:2>4X <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:19>Giv'at Shmuel 54421 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>129.0 <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>175309 <time_on:6>175309 <qso_date:8>20110914 <tx_pwr:3>0.0 <web:26>http://www.iarc.org/~4x1un <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>ON5UN <cont:2>EU <country:7>Belgium <distance:8>6136.387 
+<dxcc:3>209 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:143>Result: 1 out of 1 records added, Information: From: nx3ss To: ON5UN Date: 20110913 Time: 2119 Band: 20M Mode: JT65 RST: -24 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>JO11 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qslsdate:8>20110914 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 
+<my_lon:11>E000 00.000 <pfx:3>ON5 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-12 
+<rst_sent:3>-24 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>212200 <time_on:6>211900 
+<qso_date:8>20110913 <tx_pwr:6>30.000 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>EA3FHP <cont:2>EU <country:5>Spain <distance:8>6573.403 
+<dxcc:3>281 <eqsl_qslsdate:8>20110914 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: nx3ss To: EA3FHP Date: 20110913 Time: 2101 Band: 20M Mode: JT65 RST: -15 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>JN11 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qslsdate:8>20110914 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 
+<my_lon:11>E000 00.000 <pfx:3>EA3 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-19 
+<rst_sent:3>-15 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>210400 <time_on:6>210100 
+<qso_date:8>20110913 <tx_pwr:6>30.000 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>PE2K <cont:2>EU <country:11>Netherlands 
+<distance:8>6226.167 <dxcc:3>263 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.076000 
+<gridsquare:4>JO22 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110913 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>Y <mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>PE2 
+<qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-23 <rst_sent:3>-15 <rx_pwr:3>0.0 
+<sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>191300 <time_on:6>190900 <qso_date:8>20110912 
+<tx_pwr:6>25.000 <EOR>
+
+<address:52>RALPH D BANTA
+3407 DIANA ST
+SPRINGDALE, AR 72764
+USA <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>40m <call:4>K5DB <cnty:10>Washington <comment:4>wash <cont:2>NA <country:13>United States 
+<cqz:1>5 <distance:8>1552.871 <dxcc:3>291 <eqsl_qslsdate:8>20110910 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<eqsl_status:140>Result: 1 out of 1 records added, Information: From: nx3ss To: K5DB Date: 20110911 Time: 0042 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.181880 <gridsquare:6>EM26wd <ituz:1>6 <k_index:3>0.0 <lat:11>N036 09.220 <lon:11>W094 08.323 
+<lotw_qslsdate:8>20110913 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:13>RALPH D BANTA <pfx:2>K5 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
+<qso_complete:1>Y <qso_random:1>0 <qth:10>SPRINGDALE <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 
+<state:2>AR <station_callsign:5>NX3SS <swl:1>0 <time_off:6>004255 <time_on:6>004255 <qso_date:8>20110911 
+<tx_pwr:3>0.0 <EOR>
+
+<address:57>EMIR - BRACO MEMIC
+ABELEGASSE 13-15/7
+VIENNA,1160
+Austria <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>40m <call:6>OE1EMS <comment:7>774/007 <cont:2>EU <country:7>Austria <cqz:2>15 <distance:8>7010.336 
+<dxcc:3>206 <eqsl_qslsdate:8>20110910 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:142>Result: 1 out of 1 records added, Information: From: nx3ss To: OE1EMS Date: 20110911 Time: 0041 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.176960 <ituz:2>28 <k_index:3>0.0 <lat:11>N047 25.002 <lon:11>E014 04.998 <lotw_qslsdate:8>20110913 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
+<my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:18>EMIR - BRACO MEMIC 
+<pfx:3>OE1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:6>VIENNA <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 
+<time_off:6>004111 <time_on:6>004111 <qso_date:8>20110911 <tx_pwr:3>0.0 <EOR>
+
+<address:52>Axel Serena
+Merce Rodoreda 30
+Bellaterra 08193
+Spain <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>40m <call:5>EB3CW <comment:7>603/006 <cont:2>EU <country:5>Spain <cqz:2>14 <distance:8>6469.344 
+<dxcc:3>281 <eqsl_qslsdate:8>20110910 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: EB3CW Date: 20110911 Time: 0034 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:8>7.174950 <gridsquare:6>JN11bl <ituz:2>37 <k_index:3>0.0 <lat:11>N041 29.774 <lon:11>E002 05.606 
+<lotw_qslsdate:8>20110913 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:11>Axel Serena <pfx:3>EB3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
+<qsl_via:29>EQSL, LOTW, BUREAU AND DIRECT <qso_complete:1>Y <qso_random:1>0 <qth:16>Bellaterra 08193 
+<rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>003413 
+<time_on:6>003413 <qso_date:8>20110911 <tx_pwr:3>0.0 <EOR>
+
+<address:44>Club Station
+DK4LI
+24392 Scheggerott
+Germany <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S 
+<band:3>20m <call:5>DL0CS <comment:7>374/005 <cont:2>EU <country:24>Fed. Republic of Germany <cqz:2>14 
+<distance:8>6387.230 <dxcc:3>230 <eqsl_qslsdate:8>20110910 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: DL0CS Date: 20110910 Time: 1724 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.311310 <gridsquare:6>JO44vq <ituz:2>28 <k_index:3>0.0 <lat:11>N054 40.150 
+<lon:11>E009 49.345 <lotw_qslsdate:8>20110913 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:12>Club Station <pfx:3>DL0 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
+<qsl_via:10>VIA BUREAU <qso_complete:1>Y <qso_random:1>0 <qth:17>24392 Scheggerott <rst_rcvd:2>59 <rst_sent:2>59 
+<rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>172409 <time_on:6>172409 <qso_date:8>20110910 
+<tx_pwr:3>0.0 <EOR>
+
+<address:46>HRVOJE HORVAT
+25.RUJAN 4/3
+PAZIN 52000
+Croatia <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>20m <call:5>9A6XX <comment:3>518 <cont:2>EU <country:7>Croatia <cqz:2>15 <distance:8>7122.601 
+<dxcc:3>497 <eqsl_qslsdate:8>20110910 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: 9A6XX Date: 20110910 Time: 1722 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.285910 <gridsquare:6>JN65xf <ituz:2>28 <k_index:3>0.0 <lat:11>N045 13.750 
+<lon:11>E013 57.500 <lotw_qslsdate:8>20110913 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:13>HRVOJE HORVAT <pfx:2>9A <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
+<qsl_via:4>KU5B <qso_complete:1>Y <qso_random:1>0 <qth:11>PAZIN 52000 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 
+<sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>172233 <time_on:6>172233 <qso_date:8>20110910 
+<tx_pwr:3>0.0 <EOR>
+
+<address:41>Club station DJ2MX
+81611 Muenchen
+Germany <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S 
+<band:3>20m <call:4>DP4X <comment:3>670 <cont:2>EU <country:24>Fed. Republic of Germany <cqz:2>14 <distance:8>6812.061 
+<dxcc:3>230 <eqsl_qslsdate:8>20110910 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:140>Result: 1 out of 1 records added, Information: From: nx3ss To: DP4X Date: 20110910 Time: 1721 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.281530 <gridsquare:6>JN58tc <ituz:2>28 <k_index:3>0.0 <lat:11>N048 06.200 
+<lon:11>E011 37.400 <lotw_qslsdate:8>20110913 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
+<my_name:6>Spence <name:18>Club station DJ2MX <pfx:3>DP4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N 
+<qsl_sent_via:1>D <qsl_via:10>VIA BUREAU <qso_complete:1>Y <qso_random:1>0 <qth:7>Germany <rst_rcvd:2>59 
+<rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>172104 <time_on:6>172104 
+<qso_date:8>20110910 <tx_pwr:3>0.0 <EOR>
+
+<a_index:4>24.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>20m <call:5>DN4WL <comment:3>152 <cont:2>EU 
+<country:24>Fed. Republic of Germany <cqz:2>14 <distance:8>6560.248 <dxcc:3>230 <eqsl_qslsdate:8>20110910 
+<eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: DN4WL Date: 20110910 Time: 1718 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.255830 <ituz:2>28 <k_index:3>3.0 <lat:11>N050 46.002 <lon:11>E009 46.002 <lotw_qslsdate:8>20110910 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
+<my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <pfx:3>DN4 <qsl_rcvd:1>N 
+<qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 
+<rx_pwr:3>0.0 <sfi:5>112.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>171800 <time_on:6>171800 <qso_date:8>20110910 
+<tx_pwr:3>0.0 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>30m <call:4>AC5T <cont:2>NA <country:13>United States 
+<distance:8>1880.729 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>10.137000 
+<gridsquare:4>EM13 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>AC5 <qsl_rcvd:1>N 
+<qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-14 <rst_sent:3>-08 <rx_pwr:3>0.0 <sfi:3>0.0 
+<station_callsign:5>NX3SS <swl:1>0 <time_off:6>022500 <time_on:6>022200 <qso_date:8>20110906 <tx_pwr:6>10.000 <EOR>
+
 <address:54>LEE A BARFORD
 561 Keystone Ave #434
 Reno, NV 89503
 USA <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
 <band:3>20m <call:5>W7LAB <cnty:6>Washoe <cont:2>NA <country:13>United States <cqz:1>5 <distance:8>3674.793 
 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.076000 <gridsquare:6>DM09bm 
-<ituz:1>6 <k_index:3>0.0 <lat:11>N039 31.250 <lon:11>W119 52.500 <lotw_qslsdate:8>20110904 <lotw_qsl_rcvd:1>N 
+<ituz:1>6 <k_index:3>0.0 <lat:11>N039 31.250 <lon:11>W119 52.500 <lotw_qslsdate:8>20110910 <lotw_qsl_rcvd:1>N 
 <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 
 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:13>LEE A BARFORD <pfx:2>W7 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
 <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:17>EQSL, LOTW, BURO. <qso_complete:1>Y <qso_random:1>0 <qth:4>Reno 
@@ -33,7 +472,7 @@ USA <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0
 <cqz:1>5 <distance:7>759.867 <dxcc:3>291 <eqsl_qslsdate:8>20110904 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
 <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: K2OWR Date: 20110905 Time: 0018 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
 <force_init:1>0 <freq:9>14.241170 <gridsquare:6>EM75qx <ituz:1>6 <k_index:3>0.0 <lat:11>N035 59.135 <lon:11>W084 36.625 
-<lotw_qslsdate:8>20110904 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<lotw_qslsdate:8>20110910 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
 <my_name:6>Spence <name:16>WILLIAM J RADICE <pfx:2>K2 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
 <qso_complete:1>Y <qso_random:1>0 <qth:7>Oakdale <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 
@@ -48,7 +487,7 @@ USA <a_index:3>7.0 <ant_az:3>0.0 <ant_el:3>0.0
 <cqz:1>5 <distance:7>837.370 <dxcc:3>291 <eqsl_qslsdate:8>20110904 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
 <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: W4JUU Date: 20110905 Time: 0015 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
 <force_init:1>0 <freq:9>14.227940 <gridsquare:6>EM74nx <ituz:1>6 <k_index:3>1.0 <lat:11>N034 59.824 <lon:11>W084 52.291 
-<lotw_qslsdate:8>20110904 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<lotw_qslsdate:8>20110910 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
 <my_name:6>Spence <name:14>Jesse A Rogers <pfx:2>W4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
 <qso_complete:1>Y <qso_random:1>0 <qth:9>Cleveland <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>119.0 
@@ -63,7 +502,7 @@ USA <a_index:4>11.0 <ant_az:3>0.0
 <cqz:1>5 <distance:8>1482.660 <dxcc:3>291 <eqsl_qslsdate:8>20110904 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
 <eqsl_status:140>Result: 1 out of 1 records added, Information: From: nx3ss To: W0XV Date: 20110904 Time: 1946 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
 <force_init:1>0 <freq:9>14.172940 <gridsquare:6>EM41so <ituz:1>6 <k_index:3>3.0 <lat:11>N031 35.232 <lon:11>W090 28.946 
-<lotw_qslsdate:8>20110904 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<lotw_qslsdate:8>20110910 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
 <my_name:6>Spence <name:13>JEFFREY J MAY <pfx:2>W0 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
 <qso_complete:1>Y <qso_random:1>0 <qth:10>Brookhaven <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>119.0 
@@ -76,13 +515,13 @@ TOWADA AOMORI 034-0094
 Japan <a_index:3>0.0 <ant_az:3>0.0 
 <ant_el:3>0.0 <ant_path:1>S <band:3>15m <call:6>JA7NVF <comment:2>55 <cont:2>AS <country:5>Japan <cqz:2>25 
 <distance:9>10339.366 <dxcc:3>339 <eqsl_qslsdate:8>20110903 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:142>Result: 1 out of 1 records added, Information: From: nx3ss To: JQ7NVF Date: 20110904 Time: 0117 Band: 15M Mode: SSB RST: 59 SatMode: PropMode: 
-<force_init:1>0 <freq:9>21.306830 <gridsquare:6>QN00qu <ituz:2>45 <k_index:3>0.0 <lat:11>N040 50.179 
-<lon:11>E141 22.285 <lotw_qslsdate:8>20110904 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<force_init:1>0 <freq:9>21.306830 <gridsquare:6>QN00qu <ituz:2>45 <k_index:3>0.0 <lat:11>N040 51.250 
+<lon:11>E141 22.500 <lotw_qslsdate:8>20110910 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
-<my_name:6>Spence <name:11>NAOMI ARAYA <pfx:3>JQ7 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
-<qsl_via:21>BURO OR DIRECT W/SASE <qso_complete:1>Y <qso_random:1>0 <qth:22>TOWADA AOMORI 034-0094 <rst_rcvd:2>59 
-<rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>011705 <time_on:6>011705 
-<qso_date:8>20110904 <tx_pwr:3>0.0 <web:41>http://www.smeter.net/ja7nvf/antennas.php <EOR>
+<my_name:6>Spence <name:11>NAOMI ARAYA <pfx:3>JQ7 <qslsdate:8>20110904 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>Y <qsl_sent_via:1>D <qsl_via:21>BURO OR DIRECT W/SASE <qso_complete:1>Y <qso_random:1>0 <qth:22>TOWADA AOMORI 034-0094 
+<rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>011705 
+<time_on:6>011705 <qso_date:8>20110904 <tx_pwr:3>0.0 <web:41>http://www.smeter.net/ja7nvf/antennas.php <EOR>
 
 <address:124>BRISTOL CONTEST GROUP (Winners of IOTA 2008)
 c/o DAVE BAILEY (G4NKT)18,HEATH RISE ,WARMLEY
@@ -91,7 +530,7 @@ England
 <a_index:4>11.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>40m <call:6>G6YB/P <comment:8>1151/009 
 <cont:2>EU <country:7>England <cqz:2>14 <distance:8>5752.704 <dxcc:3>223 <eqsl_qslsdate:8>20110903 <eqsl_qsl_rcvd:1>N 
 <eqsl_qsl_sent:1>Y <eqsl_status:142>Result: 1 out of 1 records added, Information: From: nx3ss To: G6YB/P Date: 20110904 Time: 0106 Band: 40M Mode: SSB RST: 59 SatMode: PropMode: 
-<force_init:1>0 <freq:8>7.182240 <ituz:2>27 <k_index:3>2.0 <lat:11>N052 46.668 <lon:11>W001 33.336 <lotw_qslsdate:8>20110904 
+<force_init:1>0 <freq:8>7.182240 <ituz:2>27 <k_index:3>2.0 <lat:11>N052 46.668 <lon:11>W001 33.336 <lotw_qslsdate:8>20110910 
 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
 <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:44>BRISTOL CONTEST GROUP (Winners of IOTA 2008) 
 <pfx:2>G6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:5>G3SWH <qso_complete:1>Y 
@@ -101,7 +540,7 @@ England
 <a_index:4>11.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>15m <call:6>JO3JIS <comment:2>42 <cont:2>AS 
 <country:5>Japan <cqz:2>25 <distance:9>11047.890 <dxcc:3>339 <eqsl_qslsdate:8>20110903 <eqsl_qsl_rcvd:1>N 
 <eqsl_qsl_sent:1>Y <eqsl_status:142>Result: 1 out of 1 records added, Information: From: nx3ss To: JO3JIS Date: 20110904 Time: 0051 Band: 15M Mode: SSB RST: 59 SatMode: PropMode: 
-<force_init:1>0 <freq:9>21.276960 <ituz:2>45 <k_index:3>2.0 <lat:11>N035 35.334 <lon:11>E136 41.334 <lotw_qslsdate:8>20110904 
+<force_init:1>0 <freq:9>21.276960 <ituz:2>45 <k_index:3>2.0 <lat:11>N035 35.334 <lon:11>E136 41.334 <lotw_qslsdate:8>20110910 
 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
 <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <pfx:3>JO3 <qsl_rcvd:1>N 
 <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 
@@ -112,9 +551,10 @@ England
 Cra 70b Nº 101 - 24
 Bogotá D.C.
 Colombia <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
-<band:3>20m <call:6>HK3WGQ <cont:2>SA <country:8>Colombia <cqz:1>9 <distance:8>3803.563 <dxcc:3>116 <eqsl_qsl_rcvd:1>N 
-<eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.076000 <gridsquare:6>FJ24xk <ituz:2>12 <k_index:3>0.0 <lat:11>N004 26.250 
-<lon:11>W074 02.500 <lotw_qslsdate:8>20110904 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
+<band:3>20m <call:6>HK3WGQ <cont:2>SA <country:8>Colombia <cqz:1>9 <distance:8>3803.563 <dxcc:3>116 <eqsl_qslsdate:8>20110907 
+<eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: nx3ss To: HK3WGQ Date: 20110904 Time: 0022 Band: 20M Mode: JT65 RST: -11 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:6>FJ24xk <ituz:2>12 <k_index:3>0.0 <lat:11>N004 26.250 
+<lon:11>W074 02.500 <lotw_qslsdate:8>20110910 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
 <name:13>Mario Munévar <pfx:3>HK3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
 <qso_random:1>0 <qth:11>Bogotá D.C. <rst_rcvd:3>-17 <rst_sent:3>-11 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS 
@@ -127,7 +567,7 @@ Norway <a_index:3>0.0 <ant_az:3>0.0
 <ant_el:3>0.0 <ant_path:1>S <band:3>20m <call:4>LA1J <comment:3>392 <cont:2>EU <country:6>Norway <cqz:2>14 
 <distance:8>5985.781 <dxcc:3>266 <eqsl_qslsdate:8>20110903 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:140>Result: 1 out of 1 records added, Information: From: nx3ss To: LA1J Date: 20110903 Time: 2228 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
 <force_init:1>0 <freq:9>14.231220 <gridsquare:6>JO28tu <ituz:2>18 <k_index:3>0.0 <lat:11>N058 50.667 
-<lon:11>E005 35.858 <lotw_qslsdate:8>20110903 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
+<lon:11>E005 35.858 <lotw_qslsdate:8>20110910 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
 <my_name:6>Spence <name:30>Clubstation Jærgruppen av NRRL <pfx:3>LA1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
 <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:45>BUREAU OR DIRECT (1 IRC OR 2 USD, READ BELOW) <qso_complete:1>Y 
@@ -231,16 +671,18 @@ England <a_index:4>11.0
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>7J1ADS <cont:2>AS <country:5>Japan <distance:9>11004.389 
 <dxcc:3>339 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:4>PM95 
-<k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110903 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
-<mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:2>7J <qsl_rcvd:1>N 
-<qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-12 <rst_sent:3>-13 <rx_pwr:3>0.0 <sfi:3>0.0 
-<station_callsign:5>NX3SS <swl:1>0 <time_off:6>024600 <time_on:6>024500 <qso_date:8>20110903 <tx_pwr:6>30.000 <EOR>
+<k_index:3>0.0 <lat:11>N035 30.000 <lon:11>E139 00.000 <lotw_qslsdate:8>20110903 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
+<mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 
+<my_lon:11>E000 00.000 <pfx:2>7J <qslsdate:8>20110908 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>D 
+<qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-12 <rst_sent:3>-13 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>024600 <time_on:6>024500 <qso_date:8>20110903 <tx_pwr:6>30.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>JH3OWW <cont:2>AS <country:5>Japan <distance:9>11266.156 
 <dxcc:3>339 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:4>PM74 
-<k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110903 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
-<mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>JH3 <qsl_rcvd:1>N 
-<qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-10 <rst_sent:3>-14 <rx_pwr:3>0.0 <sfi:3>0.0 
+<k_index:3>0.0 <lat:11>N034 30.000 <lon:11>E135 00.000 <lotw_qslsdate:8>20110903 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
+<mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 
+<my_lon:11>E000 00.000 <pfx:3>JH3 <qslsdate:8>20110908 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y 
+<qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-10 <rst_sent:3>-14 <rx_pwr:3>0.0 <sfi:3>0.0 
 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>023700 <time_on:6>023400 <qso_date:8>20110903 <tx_pwr:6>30.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>JA1MOD <cont:2>AS <country:5>Japan <distance:9>10905.840 
@@ -252,18 +694,26 @@ England <a_index:4>11.0
 <qso_date:8>20110903 <tx_pwr:6>30.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:5>VE7VI <cont:2>NA <country:6>Canada <distance:8>3814.384 
-<dxcc:1>1 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:4>CN89 
-<k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110903 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
-<mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>VE7 <qsl_rcvd:1>N 
-<qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-14 <rst_sent:3>-11 <rx_pwr:3>0.0 <sfi:3>0.0 
-<station_callsign:5>NX3SS <swl:1>0 <time_off:6>021400 <time_on:6>021200 <qso_date:8>20110903 <tx_pwr:6>30.000 <EOR>
+<dxcc:1>1 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:143>Result: 1 out of 1 records added, Information: From: nx3ss To: VE7VI Date: 20110903 Time: 0212 Band: 15M Mode: JT65 RST: -11 SatMode: PropMode: 
+<force_init:1>0 <freq:9>21.076000 <gridsquare:4>CN89 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qslsdate:8>20110903 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 
+<my_lon:11>E000 00.000 <pfx:3>VE7 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-14 
+<rst_sent:3>-11 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>021400 <time_on:6>021200 
+<qso_date:8>20110903 <tx_pwr:6>30.000 <EOR>
 
-<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>JF1DMY <cont:2>AS <country:5>Japan <distance:9>11004.389 
-<dxcc:3>339 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:4>PM95 
-<k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110903 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
-<mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>JF1 <qsl_rcvd:1>N 
-<qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-10 <rst_sent:3>-13 <rx_pwr:3>0.0 <sfi:3>0.0 
-<station_callsign:5>NX3SS <swl:1>0 <time_off:6>020600 <time_on:6>020200 <qso_date:8>20110903 <tx_pwr:6>30.000 <EOR>
+<address:71>Takayasu Nakamura
+3-15-12 Shiinokidai
+Kashiwa city Chiba 277-0945
+Japan <a_index:3>0.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <band:3>15m <call:6>JF1DMY <cont:2>AS <country:5>Japan <cqz:2>25 <distance:9>10932.912 
+<dxcc:3>339 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:6>PM95xt 
+<ituz:2>45 <k_index:3>0.0 <lat:11>N035 48.750 <lon:11>E139 57.500 <lotw_qslsdate:8>20110903 <lotw_qsl_rcvd:1>V 
+<lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 
+<my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:17>Takayasu Nakamura <pfx:3>JF1 <qslsdate:8>20110908 
+<qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>D <qsl_via:22>BUREAU , DIRECT , LOTW <qso_complete:1>Y 
+<qso_random:1>0 <qth:27>Kashiwa city Chiba 277-0945 <rst_rcvd:3>-10 <rst_sent:3>-13 <rx_pwr:3>0.0 <sfi:3>0.0 
+<station_callsign:5>NX3SS <swl:1>0 <time_off:6>020600 <time_on:6>020200 <qso_date:8>20110903 <tx_pwr:6>30.000 
+<web:37>http://www.nkmr.homeip.net/~takayasu/ <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:4>KW7E <cont:2>NA <country:13>United States 
 <distance:8>3268.247 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 
@@ -297,11 +747,12 @@ USA <a_index:3>3.0
 <qso_date:8>20110828 <tx_pwr:3>0.0 <web:19>http://www.k8es.org <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>XE1GZU <cont:2>NA <country:6>Mexico <distance:8>3198.496 
-<dxcc:2>50 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:4>DL80 
-<k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110829 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
-<mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>XE1 <qsl_rcvd:1>N 
-<qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-10 <rst_sent:3>-11 <rx_pwr:3>0.0 <sfi:3>0.0 
-<station_callsign:5>NX3SS <swl:1>0 <time_off:6>021200 <time_on:6>021000 <qso_date:8>20110825 <tx_pwr:6>30.000 <EOR>
+<dxcc:2>50 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: nx3ss To: XE1GZU Date: 20110825 Time: 0210 Band: 15M Mode: JT65 RST: -11 SatMode: PropMode: 
+<force_init:1>0 <freq:9>21.076000 <gridsquare:4>DL80 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qslsdate:8>20110829 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 
+<my_lon:11>E000 00.000 <pfx:3>XE1 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-10 
+<rst_sent:3>-11 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>021200 <time_on:6>021000 
+<qso_date:8>20110825 <tx_pwr:6>30.000 <EOR>
 
 <address:51>HC-03 BOX 39002, CABO ROJO P.R. 00623-9065, PR, USA <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
 <band:3>20m <call:5>WP3PH <cnty:9>Cabo Rojo <cont:2>NA <country:11>Puerto Rico <cqz:1>8 <distance:3>0.0 
@@ -635,12 +1086,13 @@ USA <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0
 <swl:1>0 <time_off:6>004340 <time_on:6>004340 <qso_date:8>20110821 <tx_pwr:3>0.0 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>G4WJS <cont:2>EU <country:7>England <distance:8>5873.966 
-<dxcc:3>223 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.076000 <gridsquare:4>IO91 
-<k_index:3>0.0 <lat:11>N051 30.000 <lon:11>W001 00.000 <lotw_qslsdate:8>20110820 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
-<mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 
-<my_lon:11>E000 00.000 <pfx:2>G4 <qslsdate:8>20110828 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B 
-<qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-07 <rst_sent:3>-17 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS 
-<swl:1>0 <time_off:6>010600 <time_on:6>010500 <qso_date:8>20110820 <tx_pwr:6>30.000 <EOR>
+<dxcc:3>223 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:143>Result: 1 out of 1 records added, Information: From: nx3ss To: G4WJS Date: 20110820 Time: 0105 Band: 20M Mode: JT65 RST: -17 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>IO91 <k_index:3>0.0 <lat:11>N051 30.000 <lon:11>W001 00.000 
+<lotw_qslsdate:8>20110820 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<pfx:2>G4 <qslsdate:8>20110828 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:3>-07 <rst_sent:3>-17 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 
+<time_off:6>010600 <time_on:6>010500 <qso_date:8>20110820 <tx_pwr:6>30.000 <EOR>
 
 <address:79>Alexander P. Chernykh
 P.O. Box 17
@@ -1042,9 +1494,9 @@ Uzbekistan <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0
 <force_init:1>0 <freq:9>14.076000 <gridsquare:4>CO29 <k_index:3>0.0 <lat:11>N059 30.000 <lon:11>W135 00.000 
 <lotw_qslsdate:8>20110719 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
-<pfx:3>KL7 <qslsdate:8>20110719 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>D <qso_complete:1>Y 
-<qso_random:1>0 <rst_rcvd:3>-19 <rst_sent:3>-18 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 
-<time_off:6>022300 <time_on:6>021600 <qso_date:8>20110720 <tx_pwr:6>30.000 <EOR>
+<pfx:3>KL7 <qslrdate:8>20110719 <qslsdate:8>20110719 <qsl_rcvd:1>Y <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>D 
+<qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-19 <rst_sent:3>-18 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>022300 <time_on:6>021600 <qso_date:8>20110720 <tx_pwr:6>30.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>IZ0MIT <cont:2>EU <country:5>Italy <distance:8>7306.700 
 <dxcc:3>248 <eqsl_qslrdate:8>20110726 <eqsl_qslsdate:8>20110726 <eqsl_qsl_rcvd:1>Y <eqsl_qsl_sent:1>Y 
@@ -1528,13 +1980,14 @@ Cayman Islands <a_index:3>0.0 <ant_az:3>0.0
 <tx_pwr:6>30.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>VK3BM <cont:2>OC <country:9>Australia 
-<distance:9>16383.565 <dxcc:3>150 <eqsl_qslrdate:8>20110726 <eqsl_qsl_rcvd:1>Y <eqsl_qsl_sent:1>N <force_init:1>0 
-<freq:9>14.076000 <gridsquare:4>QF22 <k_index:3>0.0 <lat:11>S037 30.000 <lon:11>E145 00.000 <lotw_qslsdate:8>20110711 
-<lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 
-<my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>VK3 <qslsdate:8>20110814 <qsl_rcvd:1>N 
-<qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-15 <rst_sent:3>-10 
-<rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>032200 <time_on:6>031900 <qso_date:8>20110710 
-<tx_pwr:6>30.000 <EOR>
+<distance:9>16383.565 <dxcc:3>150 <eqsl_qslrdate:8>20110726 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>Y 
+<eqsl_qsl_sent:1>Y <eqsl_status:143>Result: 1 out of 1 records added, Information: From: nx3ss To: VK3BM Date: 20110710 Time: 0319 Band: 20M Mode: JT65 RST: -10 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>QF22 <k_index:3>0.0 <lat:11>S037 30.000 <lon:11>E145 00.000 
+<lotw_qslsdate:8>20110711 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<pfx:3>VK3 <qslsdate:8>20110814 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:3>-15 <rst_sent:3>-10 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 
+<time_off:6>032200 <time_on:6>031900 <qso_date:8>20110710 <tx_pwr:6>30.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>AC5T <cont:2>NA <country:13>United States 
 <distance:8>1880.729 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.076000 
@@ -1586,13 +2039,14 @@ France <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0
 <time_off:6>000134 <time_on:6>000134 <qso_date:8>20110708 <tx_pwr:3>0.0 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>PE1IWT <cont:2>EU <country:11>Netherlands 
-<distance:8>6352.413 <dxcc:3>263 <eqsl_qslrdate:8>20110726 <eqsl_qsl_rcvd:1>Y <eqsl_qsl_sent:1>N <force_init:1>0 
-<freq:9>14.076000 <gridsquare:4>JO32 <k_index:3>0.0 <lat:11>N052 30.000 <lon:11>E007 00.000 <lotw_qslsdate:8>20110711 
-<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 
-<my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>PE1 <qslsdate:8>20110814 <qsl_rcvd:1>N 
-<qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-12 <rst_sent:3>-13 
-<rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>224500 <time_on:6>224000 <qso_date:8>20110707 
-<tx_pwr:6>30.000 <EOR>
+<distance:8>6352.413 <dxcc:3>263 <eqsl_qslrdate:8>20110726 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>Y 
+<eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: nx3ss To: PE1IWT Date: 20110707 Time: 2240 Band: 20M Mode: JT65 RST: -13 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>JO32 <k_index:3>0.0 <lat:11>N052 30.000 <lon:11>E007 00.000 
+<lotw_qslsdate:8>20110711 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<pfx:3>PE1 <qslsdate:8>20110814 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:3>-12 <rst_sent:3>-13 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 
+<time_off:6>224500 <time_on:6>224000 <qso_date:8>20110707 <tx_pwr:6>30.000 <EOR>
 
 <address:96>SUAD Zukic
 QSL via home call, DK6XZ
@@ -1633,21 +2087,23 @@ USA <a_index:3>0.0 <ant_az:3>0.0
 <tx_pwr:6>10.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>G1WEV <cont:2>EU <country:7>England <distance:8>5779.728 
-<dxcc:3>223 <eqsl_qslrdate:8>20110726 <eqsl_qsl_rcvd:1>Y <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.076000 
-<gridsquare:4>IO94 <k_index:3>0.0 <lat:11>N054 30.000 <lon:11>W001 00.000 <lotw_qslsdate:8>20110706 <lotw_qsl_rcvd:1>V 
-<lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 
-<my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:2>G1 <qslsdate:8>20110706 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
-<qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-12 <rst_sent:3>-14 <rx_pwr:3>0.0 
-<sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>012800 <time_on:6>012500 <qso_date:8>20110707 
-<tx_pwr:6>30.000 <EOR>
+<dxcc:3>223 <eqsl_qslrdate:8>20110726 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>Y <eqsl_qsl_sent:1>Y 
+<eqsl_status:143>Result: 1 out of 1 records added, Information: From: nx3ss To: G1WEV Date: 20110707 Time: 0125 Band: 20M Mode: JT65 RST: -14 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>IO94 <k_index:3>0.0 <lat:11>N054 30.000 <lon:11>W001 00.000 
+<lotw_qslsdate:8>20110706 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<pfx:2>G1 <qslsdate:8>20110706 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:3>-12 <rst_sent:3>-14 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 
+<time_off:6>012800 <time_on:6>012500 <qso_date:8>20110707 <tx_pwr:6>30.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>ON4KBJ <cont:2>EU <country:7>Belgium <distance:8>6175.131 
-<dxcc:3>209 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.076000 <gridsquare:4>JO10 
-<k_index:3>0.0 <lat:11>N050 30.000 <lon:11>E003 00.000 <lotw_qslsdate:8>20110706 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
-<mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 
-<my_lon:11>E000 00.000 <pfx:3>ON4 <qslsdate:8>20110706 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y 
-<qsl_sent_via:1>B <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>-06 <rx_pwr:3>0.0 <sfi:3>0.0 
-<station_callsign:5>NX3SS <swl:1>0 <time_off:6>194300 <time_on:6>193600 <qso_date:8>20110704 <tx_pwr:6>30.000 <EOR>
+<dxcc:3>209 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <eqsl_status:144>Result: 1 out of 1 records added, Information: From: nx3ss To: ON4KBJ Date: 20110704 Time: 1936 Band: 20M Mode: JT65 RST: -06 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>JO10 <k_index:3>0.0 <lat:11>N050 30.000 <lon:11>E003 00.000 
+<lotw_qslsdate:8>20110706 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<pfx:3>ON4 <qslsdate:8>20110706 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>-06 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 
+<time_off:6>194300 <time_on:6>193600 <qso_date:8>20110704 <tx_pwr:6>30.000 <EOR>
 
 <address:30>Special Event Callsign
 USA
@@ -1674,7 +2130,8 @@ USA <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>40m
 <qso_date:8>20110704 <tx_pwr:7>100.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>20m <call:3>K2L <comment:2>SC <cont:2>NA 
-<country:13>United States <cqz:1>5 <distance:8>1783.073 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N 
+<country:13>United States <cqz:1>5 <distance:8>1783.073 <dxcc:3>291 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>N 
+<eqsl_qsl_sent:1>Y <eqsl_status:139>Result: 1 out of 1 records added, Information: From: nx3ss To: K2L Date: 20110704 Time: 1441 Band: 20M Mode: SSB RST: 59 SatMode: PropMode: 
 <force_init:1>0 <freq:9>14.225960 <ituz:1>6 <k_index:3>0.0 <lat:11>N039 00.000 <lon:11>W097 31.668 <lotw_qslsdate:8>20110704 
 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_city:9>Riverdale <my_cnty:14>Prince Georges <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
@@ -1927,12 +2384,13 @@ USA <a_index:3>0.0 <ant_az:3>0.0
 <tx_pwr:6>30.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>KE4TB <cont:2>NA <country:13>United States 
-<distance:8>1880.729 <dxcc:3>291 <eqsl_qslrdate:8>20110726 <eqsl_qsl_rcvd:1>Y <eqsl_qsl_sent:1>N <force_init:1>0 
-<freq:9>14.076000 <gridsquare:4>EM13 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110704 
-<lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
-<pfx:3>KE4 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-10 <rst_sent:3>-04 
-<rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>030100 <time_on:6>025800 <qso_date:8>20110628 
-<tx_pwr:6>30.000 <EOR>
+<distance:8>1880.729 <dxcc:3>291 <eqsl_qslrdate:8>20110726 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>Y 
+<eqsl_qsl_sent:1>Y <eqsl_status:143>Result: 1 out of 1 records added, Information: From: nx3ss To: KE4TB Date: 20110628 Time: 0258 Band: 20M Mode: JT65 RST: -04 SatMode: PropMode: 
+<force_init:1>0 <freq:9>14.076000 <gridsquare:4>EM13 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qslsdate:8>20110704 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_gridsquare:4>FM18 <my_lat:11>N000 00.000 
+<my_lon:11>E000 00.000 <pfx:3>KE4 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:3>-10 
+<rst_sent:3>-04 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>030100 <time_on:6>025800 
+<qso_date:8>20110628 <tx_pwr:6>30.000 <EOR>
 
 <address:42>MKR19-34-60, Zhlobin-5, VL 247195, Belarus <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m 
 <call:5>EW8CM <cont:2>EU <country:7>Belarus <cqz:2>16 <distance:3>0.0 <dxcc:2>27 <eqsl_qslrdate:8>20110726 
@@ -1945,7 +2403,8 @@ USA <a_index:3>0.0 <ant_az:3>0.0
 <tx_pwr:3>0.0 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>15m <call:5>K7NEJ <cont:2>NA <country:13>United States 
-<cqz:1>5 <distance:3>0.0 <dxcc:3>291 <eqsl_qslrdate:8>20110726 <eqsl_qsl_rcvd:1>Y <eqsl_qsl_sent:1>N 
+<cqz:1>5 <distance:3>0.0 <dxcc:3>291 <eqsl_qslrdate:8>20110726 <eqsl_qslsdate:8>20110907 <eqsl_qsl_rcvd:1>Y 
+<eqsl_qsl_sent:1>Y <eqsl_status:141>Result: 1 out of 1 records added, Information: From: nx3ss To: K7NEJ Date: 20110625 Time: 1541 Band: 15M Mode: SSB RST: 59 SatMode: PropMode: 
 <force_init:1>0 <freq:9>21.306900 <ituz:1>6 <k_index:3>0.0 <lat:11>N039 00.000 <lon:11>W097 31.668 <lotw_qslsdate:8>20110704 
 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:5>wayne 
 <pfx:2>K7 <qslrdate:8>20110628 <qsl_rcvd:1>Y <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
@@ -2124,7 +2583,7 @@ Israel <a_index:4>10.0 <ant_az:3>0.0 <ant_el:3>0.0
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:6>SM5HBL <cont:2>EU <country:6>Sweden <cqz:2>14 
 <distance:3>0.0 <dxcc:3>284 <eqsl_qslsdate:8>20110704 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <force_init:1>0 
 <freq:9>14.076000 <gridsquare:4>JO78 <ituz:2>18 <k_index:3>0.0 <lat:11>N058 30.000 <lon:11>E015 00.000 
-<lotw_qslsdate:8>20110704 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<lotw_qslsdate:8>20110704 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
 <pfx:3>SM5 <qslsdate:8>20110704 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B <qso_complete:1>Y 
 <qso_random:1>0 <rst_rcvd:3>599 <rst_sent:3>-19 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>225400 
 <time_on:6>225400 <qso_date:8>20110526 <tx_pwr:3>0.0 <EOR>
@@ -3442,7 +3901,7 @@ quare:6>CN97AU <app_
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <call:5>YT1DL <cont:2>EU <country:6>Serbia <cqz:2>15 
 <distance:3>0.0 <dxcc:3>296 <eqsl_qslrdate:8>20110726 <eqsl_qsl_rcvd:1>Y <eqsl_qsl_sent:1>Y <force_init:1>0 
 <freq:8>7.076000 <gridsquare:4>KN04 <ituz:2>28 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
-<lotw_qslsdate:8>20110704 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<lotw_qslsdate:8>20110704 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:4>JT65 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
 <pfx:3>YT1 <qsl_rcvd:1>N <qsl_sent:1>Y <qso_complete:1>Y <qso_random:1>0 <rst_sent:3>-15 <rx_pwr:3>0.0 
 <sfi:3>0.0 <swl:1>0 <time_off:6>225600 <time_on:6>225600 <qso_date:8>20110407 <tx_pwr:6>50.000 <EOR>
 
@@ -3772,11 +4231,12 @@ square:6>CN85NM <app_
 <state:2>WI <swl:1>0 <time_off:6>212900 <time_on:6>212900 <qso_date:8>20110313 <tx_pwr:6>50.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>N9UY <comment:3>OUT <cont:2>NA <country:13>United States 
-<cqz:1>4 <distance:3>0.0 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <force_init:1>0 <freq:9>14.244900 
-<ituz:1>8 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110704 <lotw_qsl_rcvd:1>N 
-<lotw_qsl_sent:1>Y <mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:2>N9 <qsl_rcvd:1>N 
-<qsl_sent:1>Y <qso_complete:1>Y <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 
-<state:2>WI <swl:1>0 <time_off:6>212800 <time_on:6>212800 <qso_date:8>20110313 <tx_pwr:6>50.000 <EOR>
+<cqz:1>4 <distance:3>0.0 <dxcc:3>291 <eqsl_qslsdate:8>20110912 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
+<force_init:1>0 <freq:9>14.244900 <ituz:1>8 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qslsdate:8>20110704 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:2>N9 
+<qslrdate:8>20110912 <qslsdate:8>20110912 <qsl_rcvd:1>Y <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>D 
+<qso_complete:1>Y <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>WI 
+<swl:1>0 <time_off:6>212800 <time_on:6>212800 <qso_date:8>20110313 <tx_pwr:6>50.000 <EOR>
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>K9VS <comment:12>Waukesha cty <cont:2>NA 
 <country:13>United States <cqz:1>4 <distance:3>0.0 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y 
@@ -4093,17 +4553,17 @@ square:6>CN85NM <app_
 <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>140500 <time_on:6>140500 
 <qso_date:8>20110306 <tx_pwr:6>50.000 <EOR>
 
-<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:4>PJ4G <comment:1>K <cont:2>NA <country:12>Sint Maarten 
-<cqz:1>9 <distance:3>0.0 <dxcc:3>518 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <force_init:1>0 <freq:9>21.347000 
-<ituz:2>11 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
-<mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>PJ4 <qsl_rcvd:1>Y <qsl_sent:1>Y <qso_complete:1>Y 
-<qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>140200 <time_on:6>140200 
-<qso_date:8>20110306 <tx_pwr:6>50.000 <EOR>
-
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>PJ4G <comment:1>K <cont:2>NA <country:12>Sint Maarten 
 <cqz:1>9 <distance:3>0.0 <dxcc:3>518 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <force_init:1>0 <freq:9>14.323000 
 <ituz:2>11 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
 <mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>PJ4 <qsl_rcvd:1>N <qsl_sent:1>Y <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>140200 <time_on:6>140200 
+<qso_date:8>20110306 <tx_pwr:6>50.000 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:4>PJ4G <comment:1>K <cont:2>NA <country:12>Sint Maarten 
+<cqz:1>9 <distance:3>0.0 <dxcc:3>518 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <force_init:1>0 <freq:9>21.347000 
+<ituz:2>11 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
+<mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>PJ4 <qsl_rcvd:1>Y <qsl_sent:1>Y <qso_complete:1>Y 
 <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>140200 <time_on:6>140200 
 <qso_date:8>20110306 <tx_pwr:6>50.000 <EOR>
 
