@@ -3,7 +3,7 @@
 #   HRD Logbook version 5.0 build 2893, Copyright (C) 2009-2010 by Simon Brown, HB9DRV
 #   http://logbook.ham-radio-deluxe.com
 #
-#   Created:  18-Sep-2011 21:29:07
+#   Created:  22-Sep-2011 09:29:16
 #
 #--
 
@@ -12,13 +12,92 @@
 <PROGRAMVERSION:22>Version 5.0 build 2893
 <EOH>
 
+<address:69>LUIS ZEPEDA HERNANDEZ
+P.O.BOX 5-273
+GUADALAJARA, JALISCO 45042
+Mexico <a_index:3>0.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <band:3>40m <call:6>XE1GZU <cont:2>NA <country:6>Mexico <cqz:1>6 <distance:8>3221.438 <dxcc:2>50 
+<eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:8>7.076000 <gridsquare:6>DL80gp <ituz:2>10 
+<k_index:3>0.0 <lat:11>N020 38.750 <lon:11>W103 27.500 <lotw_qslsdate:8>20110921 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
+<mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 
+<my_lon:11>E000 00.000 <name:21>LUIS ZEPEDA HERNANDEZ <pfx:3>XE1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N 
+<qsl_sent_via:1>D <qsl_via:20>DIRECT, BUREAU, LOTW <qso_complete:1>Y <qso_random:1>0 <qth:11>GUADALAJARA 
+<rst_rcvd:3>-09 <rst_sent:3>-08 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>034000 
+<time_on:6>033900 <qso_date:8>20110922 <tx_pwr:6>30.000 <web:25>http://www.qsl.net/xe1gzu <EOR>
+
+<address:47>Igor B. Kasitsky
+Telmana 26
+Izyum 64302
+Ukraine <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<band:3>40m <call:5>UX1LU <cont:2>EU <country:7>Ukraine <cqz:2>16 <distance:8>8336.166 <dxcc:3>288 <eqsl_qsl_rcvd:1>N 
+<eqsl_qsl_sent:1>N <force_init:1>0 <freq:8>7.076000 <gridsquare:6>KN89pe <ituz:2>29 <k_index:3>0.0 <lat:11>N049 11.250 
+<lon:11>E037 17.500 <lotw_qslsdate:8>20110921 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States 
+<my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 
+<name:16>Igor B. Kasitsky <pfx:3>UX1 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D 
+<qsl_via:11>WWW.EQSL.CC <qso_complete:1>Y <qso_random:1>0 <qth:11>Izyum 64302 <rst_rcvd:3>-19 <rst_sent:3>-09 
+<rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>032200 <time_on:6>031900 <qso_date:8>20110922 
+<tx_pwr:6>30.000 <EOR>
+
+<address:55>DELWYN W CHING
+PO BOX 23029
+HONOLULU, HI 96823-3029
+USA <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<band:3>20m <call:5>KH6DC <cnty:8>Honolulu <cont:2>OC <country:6>Hawaii <cqz:2>31 <distance:8>7793.142 
+<dxcc:3>110 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>14.076000 <gridsquare:6>BL11bh 
+<ituz:2>61 <k_index:3>0.0 <lat:11>N021 18.750 <lon:11>W157 52.500 <lotw_qslsdate:8>20110921 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 
+<my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:14>DELWYN W CHING <pfx:3>KH6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:30>LOTW, DIRECT MAIL OR ARRL BURO <qso_complete:1>Y <qso_random:1>0 
+<qth:8>HONOLULU <rst_rcvd:3>-14 <rst_sent:3>-15 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 
+<time_off:6>031300 <time_on:6>030900 <qso_date:8>20110922 <tx_pwr:6>30.000 <EOR>
+
+<address:67>Bruce A Blackburn
+167 Wyndham Way
+Grand Junction, CO 81507-1579
+USA <a_index:3>0.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <band:3>10m <call:5>N0NHP <cnty:4>Mesa <cont:2>NA <country:13>United States <cqz:1>5 <distance:8>2731.089 
+<dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>28.076000 <gridsquare:6>DM59qb 
+<ituz:1>6 <k_index:3>0.0 <lat:11>N039 03.750 <lon:11>W108 37.500 <lotw_qslsdate:8>20110921 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 
+<my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:17>Bruce A Blackburn <pfx:2>N0 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
+<qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 <qth:14>Grand Junction <rst_rcvd:3>-10 
+<rst_sent:3>-21 <rx_pwr:3>0.0 <sfi:3>0.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>002200 <time_on:6>002100 
+<qso_date:8>20110922 <tx_pwr:6>30.000 <web:21>http://gmra.org/n0nhp <EOR>
+
+<address:62>Olavur Frederiksen
+QSL via M0URX
+Torshavn. FO100
+Faroe Islands <a_index:3>4.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <ant_path:1>S <band:3>15m <call:5>OY1OF <cont:2>EU <country:9>Faroe Is. <cqz:2>14 <distance:8>5253.406 
+<dxcc:3>222 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.272820 <gridsquare:6>IP62oa 
+<ituz:2>18 <k_index:3>1.0 <lat:11>N062 00.937 <lon:11>W006 45.311 <lotw_qslsdate:8>20110921 <lotw_qsl_rcvd:1>N 
+<lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 
+<my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:18>Olavur Frederiksen <pfx:3>OY1 
+<qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:63>TIM, M0URX, P.O. BOX 17 KENILWORTH WARWICKSHIRE CV8 1SF ENGLAND 
+<qso_complete:1>Y <qso_random:1>0 <qth:15>Torshavn. FO100 <rst_rcvd:2>53 <rst_sent:2>57 <rx_pwr:3>0.0 
+<sfi:5>144.0 <station_callsign:5>NX3SS <swl:1>0 <time_off:6>222620 <time_on:6>222620 <qso_date:8>20110921 
+<tx_pwr:3>0.0 <web:25>http://www.faroephoto.com <EOR>
+
+<address:60>RAYMOND PETERSON
+10642 E CALLE NOPALITO
+TUCSON, AZ 85748
+USA <a_index:3>0.0 <ant_az:3>0.0 
+<ant_el:3>0.0 <ant_path:1>S <band:3>10m <call:5>N2DXC <cnty:4>Pima <cont:2>NA <country:13>United States 
+<cqz:1>5 <distance:8>3139.842 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>28.536900 
+<gridsquare:6>DM42oe <ituz:1>6 <k_index:3>0.0 <lat:11>N032 12.076 <lon:11>W110 45.953 <lotw_qslsdate:8>20110921 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:6>FM18nx 
+<my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 <my_name:6>Spence <name:16>RAYMOND PETERSON 
+<pfx:2>N2 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>0 
+<qth:6>TUCSON <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>AZ <station_callsign:5>NX3SS 
+<swl:1>0 <time_off:6>225033 <time_on:6>223945 <qso_date:8>20110920 <tx_pwr:3>0.0 <EOR>
+
 <address:73>Kanji "Kan" Morita
 644-27,Hiyono
 Ohmi-Hachiman city, Shiga 523-0033
 Japan <a_index:3>0.0 
 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>JI3CJP <cont:2>AS <country:5>Japan <cqz:2>25 <distance:9>11161.313 
 <dxcc:3>339 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:6>PM85bc 
-<ituz:2>45 <k_index:3>0.0 <lat:11>N035 06.250 <lon:11>E136 07.500 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N 
+<ituz:2>45 <k_index:3>0.0 <lat:11>N035 06.250 <lon:11>E136 07.500 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>V 
 <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 
 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:18>Kanji "Kan" Morita <pfx:3>JI3 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
 <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:18>BURO AND LOTW 100% <qso_complete:1>Y <qso_random:1>0 <qth:18>Ohmi-Hachiman city 
@@ -31,7 +110,7 @@ Okayama-City OKAYAMA 700-0972
 Japan <a_index:3>0.0 
 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:6>JO4CTB <cont:2>AS <country:5>Japan <cqz:2>25 <distance:9>11294.324 
 <dxcc:3>339 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>0 <freq:9>21.076000 <gridsquare:6>PM64wp 
-<ituz:2>45 <k_index:3>0.0 <lat:11>N034 38.750 <lon:11>E133 52.500 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>N 
+<ituz:2>45 <k_index:3>0.0 <lat:11>N034 38.750 <lon:11>E133 52.500 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>V 
 <lotw_qsl_sent:1>Y <mode:4>JT65 <my_country:13>United States <my_cq_zone:1>5 <my_gridsquare:4>FM18 <my_itu_zone:1>6 
 <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <name:12>Koji Shimizu <pfx:3>JO4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
 <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:32>VIA BUREAU,DIRECT, LOTW AND EQSL <qso_complete:1>Y <qso_random:1>0 
@@ -249,10 +328,11 @@ USA <a_index:3>6.0 <ant_az:3>0.0
 <force_init:1>0 <freq:8>7.185000 <gridsquare:6>EM95gi <ituz:1>6 <k_index:3>2.0 <lat:11>N035 21.250 <lon:11>W081 27.500 
 <lotw_qslsdate:8>20110918 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
-<my_name:6>Spence <name:18>David W Westphalen <pfx:3>KJ4 <qslsdate:8>20110915 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
-<qsl_sent:1>Y <qsl_sent_via:1>B <qsl_via:22>DIRECT, LOTW, AND EQSL <qso_complete:1>Y <qso_random:1>0 
-<qth:11>Cherryville <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>143.0 <state:2>NC <station_callsign:5>NX3SS 
-<swl:1>0 <time_off:6>013424 <time_on:6>013424 <qso_date:8>20110915 <tx_pwr:3>0.0 <web:25>http://www.kj4ens.2ya.com <EOR>
+<my_name:6>Spence <name:18>David W Westphalen <pfx:3>KJ4 <qslrdate:8>20110915 <qslsdate:8>20110915 <qsl_rcvd:1>Y 
+<qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>B <qsl_via:22>DIRECT, LOTW, AND EQSL <qso_complete:1>Y 
+<qso_random:1>0 <qth:11>Cherryville <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>143.0 <state:2>NC 
+<station_callsign:5>NX3SS <swl:1>0 <time_off:6>013424 <time_on:6>013424 <qso_date:8>20110915 <tx_pwr:3>0.0 
+<web:25>http://www.kj4ens.2ya.com <EOR>
 
 <address:57>LARRY D BRYAN
 5150 HUMMINGBIRD Street
@@ -1897,10 +1977,11 @@ USA <a_index:3>0.0 <ant_az:3>0.0
 <force_init:1>0 <freq:9>14.328500 <gridsquare:6>BL11aj <ituz:2>61 <k_index:3>0.0 <lat:11>N021 23.750 
 <lon:11>W157 57.500 <lotw_qslsdate:8>20110710 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y <mode:3>SSB <my_country:13>United States 
 <my_cq_zone:1>5 <my_gridsquare:6>FM18nx <my_itu_zone:1>6 <my_lat:11>N038 58.750 <my_lon:11>W076 52.500 
-<my_name:6>Spence <name:22>. HICKAM CONTEST GROUP <pfx:3>WH7 <qslsdate:8>20110710 <qsl_rcvd:1>N <qsl_rcvd_via:1>D 
-<qsl_sent:1>Y <qsl_sent_via:1>D <qsl_via:30>VIA W0CN (DIRECT OR LOTW ONLY) <qso_complete:1>Y <qso_random:1>0 
-<qth:4>Aiea <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>HI <station_callsign:5>NX3SS 
-<swl:1>0 <time_off:6>041325 <time_on:6>041325 <qso_date:8>20110710 <tx_pwr:3>0.0 <EOR>
+<my_name:6>Spence <name:22>. HICKAM CONTEST GROUP <pfx:3>WH7 <qslrdate:8>20110710 <qslsdate:8>20110710 
+<qsl_rcvd:1>Y <qsl_rcvd_via:1>D <qsl_sent:1>Y <qsl_sent_via:1>D <qsl_via:30>VIA W0CN (DIRECT OR LOTW ONLY) 
+<qso_complete:1>Y <qso_random:1>0 <qth:4>Aiea <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 
+<state:2>HI <station_callsign:5>NX3SS <swl:1>0 <time_off:6>041325 <time_on:6>041325 <qso_date:8>20110710 
+<tx_pwr:3>0.0 <EOR>
 
 <address:113>RSGB IARU contest HQ team - July 2011
 Several DXCC entities within the UK
@@ -4553,17 +4634,17 @@ square:6>CN85NM <app_
 <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>140500 <time_on:6>140500 
 <qso_date:8>20110306 <tx_pwr:6>50.000 <EOR>
 
-<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>PJ4G <comment:1>K <cont:2>NA <country:12>Sint Maarten 
-<cqz:1>9 <distance:3>0.0 <dxcc:3>518 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <force_init:1>0 <freq:9>14.323000 
-<ituz:2>11 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
-<mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>PJ4 <qsl_rcvd:1>N <qsl_sent:1>Y <qso_complete:1>Y 
-<qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>140200 <time_on:6>140200 
-<qso_date:8>20110306 <tx_pwr:6>50.000 <EOR>
-
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>15m <call:4>PJ4G <comment:1>K <cont:2>NA <country:12>Sint Maarten 
 <cqz:1>9 <distance:3>0.0 <dxcc:3>518 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <force_init:1>0 <freq:9>21.347000 
 <ituz:2>11 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
 <mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>PJ4 <qsl_rcvd:1>Y <qsl_sent:1>Y <qso_complete:1>Y 
+<qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>140200 <time_on:6>140200 
+<qso_date:8>20110306 <tx_pwr:6>50.000 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:4>PJ4G <comment:1>K <cont:2>NA <country:12>Sint Maarten 
+<cqz:1>9 <distance:3>0.0 <dxcc:3>518 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <force_init:1>0 <freq:9>14.323000 
+<ituz:2>11 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
+<mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:3>PJ4 <qsl_rcvd:1>N <qsl_sent:1>Y <qso_complete:1>Y 
 <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <swl:1>0 <time_off:6>140200 <time_on:6>140200 
 <qso_date:8>20110306 <tx_pwr:6>50.000 <EOR>
 
@@ -6466,7 +6547,7 @@ re:6>CM99VI <app_
 
 <a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <call:5>W0CEM <comment:6>421/50 <cont:2>NA <country:13>United States 
 <cqz:1>4 <distance:3>0.0 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>Y <force_init:1>0 <freq:9>14.165000 
-<ituz:1>7 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>Y 
+<ituz:1>7 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>V <lotw_qsl_sent:1>Y 
 <mode:3>SSB <my_lat:11>N000 00.000 <my_lon:11>E000 00.000 <pfx:2>W0 <qsl_rcvd:1>Y <qsl_sent:1>Y <qso_complete:1>Y 
 <qso_random:1>0 <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>KS <swl:1>0 <time_off:6>164800 
 <time_on:6>164800 <qso_date:8>20101121 <tx_pwr:7>100.000 <EOR>
